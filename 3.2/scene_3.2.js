@@ -780,7 +780,7 @@
         /*
 		Charge l’URL dans une nouvelle fenêtre du navigateur.
 		*/
-        window.open("../4.4/scene_4.4.html", "_self");
+        window.open("/LaRevancheDeZurg/4.4/scene_4.4.html", "_self");
       });
       var _this = this;
       /*
@@ -790,7 +790,7 @@
         /*
 		Charge l’URL dans une nouvelle fenêtre du navigateur.
 		*/
-        window.open("../4.2/scene_4.2.html", "_self");
+        window.open("/LaRevancheDeZurg/4.2/scene_4.2.html", "_self");
       });
       var _this = this;
       /*
@@ -800,7 +800,7 @@
         /*
 		Charge l’URL dans une nouvelle fenêtre du navigateur.
 		*/
-        window.open("../4.3/scene_4.3.html", "_self");
+        window.open("/LaRevancheDeZurg/4.3/scene_4.3.html", "_self");
       });
 
       var _this = this;
