@@ -1443,7 +1443,7 @@
         /*
 		Charge l’URL dans une nouvelle fenêtre du navigateur.
 		*/
-        window.open("../2.1/scene_2.1.html", "_self");
+        window.open("/LaRevancheDeZurg/2.1/scene_2.1.html", "_self");
       });
 
       var _this = this;
@@ -1459,7 +1459,7 @@
         /*
 		Charge l’URL dans une nouvelle fenêtre du navigateur.
 		*/
-        window.open("../2.2/scene_2.2.html", "_self");
+        window.open("/LaRevancheDeZurg/2.2/scene_2.2.html", "_self");
       });
 
       var _this = this;
